@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.show-sql'"
+  },
+  {
+    "name": "spring.secon-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secon-datasource.url'"
+  },
+  {
+    "name": "spring.second-datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second-datasource.username'"
+  },
+  {
+    "name": "spring.second-datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second-datasource.password'"
+  },
+  {
+    "name": "spring.second-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second-datasource.url'"
+  },
+  {
+    "name": "spring.second.jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.jpa.properties.hibernate.dialect'"
+  },
+  {
+    "name": "spring.second.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.second.jpa.hibernate.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.jpa.hibernate.show-sql'"
+  }
+]}
